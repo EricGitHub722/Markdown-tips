@@ -51,3 +51,7 @@ This is a table
 
 This is a horizontal rule like the one that follows this list.
 
+***
+
+$\uparrow$ is a horizontal rule? I dont't understand...
+
