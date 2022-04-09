@@ -6,15 +6,15 @@
 
 This is a link to an external web site.
 [This is my Leetcode home](https://leetcode-cn.com/u/ericlife/)
-//内附web site.
 
 This is a link to README.md
-//内附README site.
+[Readme Document](README.md)
 
 This is an image.
-![Alt text](Markdown-tips/头像.jpg)
+![Alt text](头像.jpg)
 
 This is an image that is lacated on the web.
+[![My Code Home](头像.jpg)](https://leetcode-cn.com/u/ericlife/)
 
 This is a code block
 ```
