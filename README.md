@@ -12,6 +12,7 @@ This is a link to README.md
 //内附README site.
 
 This is an image.
+![Alt text](Markdown-tips/头像.jpg)
 
 This is an image that is lacated on the web.
 
