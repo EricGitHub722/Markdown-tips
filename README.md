@@ -5,6 +5,7 @@
 #### This is an H4 sized header.
 
 This is a link to an external web site.
+[This is my Leetcode home](https://leetcode-cn.com/u/ericlife/)
 //内附web site.
 
 This is a link to README.md
