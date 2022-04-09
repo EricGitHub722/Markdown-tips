@@ -16,7 +16,7 @@ This is an image.
 
 This is an image that is lacated on the web.
 
-[![My Code Home](头像.jpg)](https://leetcode-cn.com/u/ericlife/)
+![avatar](https://www.jlu.edu.cn/__local/0/5B/64/8C8DCC05EE61C79B65D1DFE86D2_14822F50_437B9.jpg)
 
 This is a code block
 ```C++
